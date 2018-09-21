@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on  Ai-SCA （Sping Cloud Admin）参考文档</title>
+    <link>https://blog.hyperdata.ltd/posts/</link>
+    <description>Recent content in Posts on  Ai-SCA （Sping Cloud Admin）参考文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ffanwx@asiainfo.com (CUC TC-PPAD)</managingEditor>
+    <webMaster>ffanwx@asiainfo.com (CUC TC-PPAD)</webMaster>
+    <lastBuildDate>Fri, 21 Sep 2018 11:22:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Test1</title>
+      <link>https://blog.hyperdata.ltd/posts/hugo-test1/</link>
+      <pubDate>Fri, 21 Sep 2018 11:22:20 +0800</pubDate>
+      <author>ffanwx@asiainfo.com (CUC TC-PPAD)</author>
+      <guid>https://blog.hyperdata.ltd/posts/hugo-test1/</guid>
+      <description>这是一个hugo 文档创建的例子 执行 hugo new /posts/hugo-test1.md 1、对于APIInitialize、RemoteProcess或WebpageProcess等导出函</description>
+    </item>
+    
+    <item>
+      <title>Docker源码编译和开发环境搭建</title>
+      <link>https://blog.hyperdata.ltd/posts/docker-dev-env-dev/</link>
+      <pubDate>Mon, 06 Mar 2017 17:03:19 +0800</pubDate>
+      <author>ffanwx@asiainfo.com (CUC TC-PPAD)</author>
+      <guid>https://blog.hyperdata.ltd/posts/docker-dev-env-dev/</guid>
+      <description>看了下网上其他人写的docker开发环境搭建，要么是在ubuntu下搭建，要么就是使用官方说明的build docker-dev镜像的方式一步</description>
+    </item>
+    
+  </channel>
+</rss>

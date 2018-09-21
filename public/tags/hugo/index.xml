@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on  Ai-SCA （Sping Cloud Admin）参考文档</title>
+    <link>https://blog.hyperdata.ltd/tags/hugo/</link>
+    <description>Recent content in Hugo on  Ai-SCA （Sping Cloud Admin）参考文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ffanwx@asiainfo.com (CUC TC-PPAD)</managingEditor>
+    <webMaster>ffanwx@asiainfo.com (CUC TC-PPAD)</webMaster>
+    <lastBuildDate>Fri, 21 Sep 2018 11:22:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Test1</title>
+      <link>https://blog.hyperdata.ltd/posts/hugo-test1/</link>
+      <pubDate>Fri, 21 Sep 2018 11:22:20 +0800</pubDate>
+      <author>ffanwx@asiainfo.com (CUC TC-PPAD)</author>
+      <guid>https://blog.hyperdata.ltd/posts/hugo-test1/</guid>
+      <description>这是一个hugo 文档创建的例子 执行 hugo new /posts/hugo-test1.md 1、对于APIInitialize、RemoteProcess或WebpageProcess等导出函</description>
+    </item>
+    
+  </channel>
+</rss>

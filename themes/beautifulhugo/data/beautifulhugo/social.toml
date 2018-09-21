@@ -1,0 +1,41 @@
+[[social_icons]]
+id = "email"
+url = "mailto:%s"
+title = "Email me"
+icon = "fa-envelope"
+
+[[social_icons]]
+id = "github"
+url = "https://github.com/%s"
+title = "GitHub"
+icon = "fa-github"
+
+[[social_icons]]
+id = "gitlab"
+url = "https://gitlab.com/%s"
+title = "GitLab"
+icon = "fa-gitlab"
+
+[[social_icons]]
+id = "linkedin"
+url = "https://linkedin.com/in/%s"
+title = "LinkedIn"
+icon = "fa-linkedin"
+
+[[social_icons]]
+id = "stackoverflow"
+url = "https://stackoverflow.com/%s"
+title = "StackOverflow"
+icon = "fa-stack-overflow"
+
+[[social_icons]]
+id = "soundcloud"
+url = "https://soundcloud.com/%s"
+title = "SoundCloud"
+icon = "fa-soundcloud"
+
+[[social_icons]]
+id = "weibo"
+url = "http://weibo.com/%s"
+title = "weibo"
+icon = "fa-weibo"

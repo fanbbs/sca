@@ -1,0 +1,173 @@
+baseURL = "https://fanbbs.github.io/"
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "zh-cn"
+title = " Ai-SCA （Sping Cloud Admin）参考文档"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = false
+pygmentCodeFences = true
+#googleAnalytics = "XXX"
+
+[Params]
+hello = "Hi,this is Ai-SCA(Srping Cloud Admin)  Blog"
+subtitle = "Let's create bright future together!"
+logo = "https://raw.githubusercontent.com/fanbbs/fanbbs.github.io/master/images/favicon.ico"
+favicon = "https://raw.githubusercontent.com/fanbbs/fanbbs.github.io/master/images/favicon.ico"
+
+
+
+dateFormat = "January 2, 2006"
+commit = false
+rss = true
+
+
+#comments = true
+#sharebutton = true
+description = "Sring Cloud admin|SCA|Cloud Native|Mico Service"
+errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/jimmysong/image/upload/banners/keuc-cncf1.jpg"
+desc = "KEUC - China Kubernetes End User Conference 2017"
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/jimmysong/image/upload/banners/kubernetes-meetup-china-201708216.jpg"
+desc = "Kubernetes Beijing fans meetup - Aug 28,2017"
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/jimmysong/image/upload/banners/cloud-computing1.jpg"
+desc = "Democratizing the Cloud Computing for every one"
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/jimmysong/image/upload/banners/great-wall-0111.jpg"
+desc = "Insight throught the Great Wall to the world"
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/jimmysong/image/upload/banners/big-data-11.jpg"
+desc = "Using Big Data to make business decision"
+
+[Author]
+  name = "CUC TC-PPAD"
+  website = "https://blog.hyperdata.ltd"
+  email = "ffanwx@asiainfo.com"
+  github = "fanbbs"
+
+[[menu.main]]
+    identifier = "Blog"
+    name = "文 章"
+    weight = 1
+
+[[menu.main]]
+    parent = "Blog"
+    name = "kubernetes"
+    url = "categories/kubernetes"
+    weight = 1
+    
+[[menu.main]]
+    parent = "Blog"
+    name = "DC/OS"
+    url = "Blog/dcos"
+    weight = 2
+
+[[menu.main]]
+    parent = "Blog"
+    name = "Microservices"
+    url = "Blog/microservices"
+    weight = 3
+
+[[menu.main]]
+    parent = "Blog"
+    name = "Github"
+    url = "Blog/github"
+    weight = 4
+
+
+[[menu.main]]
+    identifier = "Docs"
+    name = "文 档"
+    weight = 2
+
+[[menu.main]]
+    parent = "Docs"
+    name = "Kubernetes handbook"
+    url = "kubernetes-handbook"
+    weight = 1
+
+[[menu.main]]
+    parent = "Docs"
+    name = "Docker handbook"
+    url = "docker-handbook"
+    weight = 2
+
+[[menu.main]]
+    parent = "Docs"
+    name = "Hugo Handbook"
+    url = "hugo-handbook"
+    weight = 3
+
+[[menu.main]]
+    parent = "Docs"
+    name = "Istio service mesh"
+    url = "http://istio.doczh.cn"
+    weight = 4
+
+[[menu.main]]
+    parent = "Docs"
+    name = "Migrating to Cloud Native"
+    url = "migrating-to-cloud-native-application-architectures"
+    weight = 5
+
+[[menu.main]]
+    identifier = "DevOps"
+    name = "DevOps"
+    weight = 3
+
+[[menu.main]]
+    parent = "DevOps"
+    name = "Devops Stack"
+    url = "posts/devops stack"
+    weight = 1
+
+[[menu.main]]
+    parent = "DevOps"
+    name = "K8S Plus"
+    url = "posts/cloud-native-java"
+    weight = 2
+
+[[menu.main]]
+    parent = "DevOps"
+    name = "Cloud Native"
+    url = "posts/cloud-native-go"
+    weight = 3
+
+[[menu.main]]
+    identifier = "Projects"
+    name = "项 目"
+    weight = 4
+
+[[menu.main]]
+    parent = "Projects"
+    name = "Spark on kubernetes"
+    url = "spark-on-k8s"
+    weight = 1
+
+[[menu.main]]
+    parent = "Projects"
+    name = "R&D Native"
+    url = "research"
+    weight = 2
+
+[[menu.main]]
+    parent = "Projects"
+    name = "PSO Native"
+    url = "posts/pso"
+    weight = 3
+
+
+[[menu.main]]
+    identifier = "About"
+    name = "关 于"
+    url = "About"
+    weight = 7
+

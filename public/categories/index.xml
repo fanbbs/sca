@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on  Ai-SCA （Sping Cloud Admin）参考文档</title>
+    <link>https://blog.hyperdata.ltd/categories/</link>
+    <description>Recent content in Categories on  Ai-SCA （Sping Cloud Admin）参考文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ffanwx@asiainfo.com (CUC TC-PPAD)</managingEditor>
+    <webMaster>ffanwx@asiainfo.com (CUC TC-PPAD)</webMaster>
+    
+	<atom:link href="https://blog.hyperdata.ltd/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker</title>
+      <link>https://blog.hyperdata.ltd/categories/docker/</link>
+      <pubDate>Mon, 06 Mar 2017 17:03:19 +0800</pubDate>
+      <author>ffanwx@asiainfo.com (CUC TC-PPAD)</author>
+      <guid>https://blog.hyperdata.ltd/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.hyperdata.ltd/categories/hugo/</link>
+      <pubDate>Fri, 21 Sep 2018 11:22:20 +0800</pubDate>
+      <author>ffanwx@asiainfo.com (CUC TC-PPAD)</author>
+      <guid>https://blog.hyperdata.ltd/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

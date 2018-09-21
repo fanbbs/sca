@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/posts/hugo-test1/</loc>
+    <lastmod>2018-09-21T11:22:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/about/</loc>
+    <lastmod>2017-03-18T20:53:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/posts/docker-dev-env-dev/</loc>
+    <lastmod>2017-03-06T17:03:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/</loc>
+    <lastmod>2018-09-21T11:22:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/docker/</loc>
+    <lastmod>2017-03-06T17:03:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/categories/docker/</loc>
+    <lastmod>2017-03-06T17:03:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/hugo/</loc>
+    <lastmod>2018-09-21T11:22:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/categories/hugo/</loc>
+    <lastmod>2018-09-21T11:22:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/me/</loc>
+    <lastmod>2017-03-18T20:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/posts/</loc>
+    <lastmod>2018-09-21T11:22:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/</loc>
+    <lastmod>2017-03-06T17:03:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
